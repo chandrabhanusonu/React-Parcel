@@ -1,0 +1,27 @@
+{
+  "name": "recat-parcel",
+  "version": "1.0.0",
+  "description": "This is the React install in parcel",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrabhanusonu/React-Parcel.git"
+  },
+  "author": "Mr Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrabhanusonu/React-Parcel/issues"
+  },
+  "homepage": "https://github.com/chandrabhanusonu/React-Parcel#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
